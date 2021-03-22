@@ -16,7 +16,7 @@ POC identifying and comparing testing tools for E2E.
 Install the dependencies:<br/>
 Make sure [Node.js](https://nodejs.org/) is installed <br/>
 Navigate to the root of the repo <br/>
-#### npm
+#### Npm
 ```bash
 npm install
 ```
