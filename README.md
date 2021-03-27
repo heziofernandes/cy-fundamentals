@@ -17,7 +17,6 @@ This project is integrated with a continuous integration tool [Circle Ci](https:
 * Mocha
 * Cypress
 
-
 ## setup
 Install the dependencies:<br/>
 Make sure [Node.js](https://nodejs.org/) is installed <br/>
